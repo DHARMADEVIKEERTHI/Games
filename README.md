@@ -3,8 +3,6 @@ This dataset provides information about video games.
 
 I get the dataset on Kaggle of this link https://www.kaggle.com/datasets/mohamedhanyyy/video-games
 
-The dataset contains information about video games and includes the following details:
-
 **Columns Description:**
 1. Console: The gaming platforms for the game (PC, NS for Nintendo Switch, PS4, etc.).
 
